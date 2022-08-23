@@ -1,0 +1,2 @@
+# ECMAScript
+Basic ECMAScript exercises
